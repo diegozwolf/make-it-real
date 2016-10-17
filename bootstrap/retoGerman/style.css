@@ -1,0 +1,13 @@
+*{ box-sizing: border-box; }
+.cuadro1 {
+	background: yellow;
+	height: 200px;
+}
+.cuadro2 {
+	background: blue;
+	height: 200px;
+}
+.cuadro3 {isolation: 
+	background: red;
+	height: 200px;
+}
